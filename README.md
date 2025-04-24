@@ -1,6 +1,9 @@
 # 🏖️ Pousada Golfinho
 
-![Logo Pousada Golfinho](assets/logo.png)
+
+🖥️ Desktop: ![image](https://github.com/user-attachments/assets/51ed2c4f-554d-4f55-95f3-88399c957672)
+📱 Mobile: ![image](https://github.com/user-attachments/assets/07d945b3-8149-438b-8e99-8a69c365d800)
+
 
 Um website moderno e responsivo para a Pousada Golfinho, localizada em Angra dos Reis. O site apresenta as acomodações, serviços e comodidades da pousada de forma elegante e intuitiva.
 
@@ -112,11 +115,9 @@ O site é totalmente responsivo, adaptando-se a diferentes tamanhos de tela:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por Marcello Gabriel
+Desenvolvido com amor 💙🐬 por Marcello Gabriell
 
-- LinkedIn: [Marcello Gabriel](https://www.linkedin.com/in/marcello-gabriel-developer/)
-- GitHub: [marcellgabriel](https://github.com/marcellgabriel)
-- Email: marcellgabriel.dev@gmail.com
+- LinkedIn: [Marcello Gabriel](https://www.linkedin.com/in/marcello-gabriell/)
 
 ---
 
