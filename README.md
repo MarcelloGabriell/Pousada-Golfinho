@@ -1,9 +1,5 @@
 # Pousada Golfinho 🏖️
 
-<p align="center">
-  <img src="assets/logo.png" alt="Logo Pousada Golfinho" width="200">
-</p>
-
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -41,14 +37,13 @@ Pousada Golfinho é um website moderno e responsivo para uma pousada localizada 
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
-</p>![Captura de tela 2025-04-23 235554](https://github.com/user-attachments/assets/1534c11b-b848-4501-8e7f-9468c6d7f3f4)
+![web1](https://github.com/user-attachments/assets/2e49e619-cc71-49a2-bfeb-5c9c787a259b)
 
 
 ### 📱 Mobile
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center; gap: 20px;">
-  <img src="assets/img3.jpg" width="200px" alt="Mobile 1">
-  <img src="assets/img5.jpg" width="200px" alt="Mobile 2">
+
 </p>
 
 ## 🛠 Tecnologias
@@ -118,12 +113,12 @@ pousada-golfinho/
 <a href="https://github.com/marcellgabriel">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/YOUR_ID?v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Marcello Gabriel</b></sub>
+ <sub><b>Marcello Gabriell</b></sub>
 </a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Marcello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcello-gabriel-developer/)](https://www.linkedin.com/in/marcello-gabriel-developer/) 
-[![Gmail Badge](https://img.shields.io/badge/-marcellgabriel.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcellgabriel.dev@gmail.com)](mailto:marcellgabriel.dev@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Marcello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcello-gabriel-developer/)](https://www.linkedin.com/in/marcello-gabriell/) 
+
 
 ---
 
-⭐️ Feito com ❤️ por Marcello Gabriel 👋🏽 [Entre em contato!](https://www.linkedin.com/in/marcello-gabriel-developer/) 
+Feito com amor e carinho 💙🐬 por Marcello Gabriel
