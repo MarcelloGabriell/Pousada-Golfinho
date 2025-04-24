@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pousada Golfinho</title>
+    <link rel="icon" type="image/png" href="assets/logo.png">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="animations.css">
+</head>
+<body>
+    <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+        <symbol id="icon-pousada" viewBox="0 0 24 24">
+            <path fill="#0066cc" d="M12 3L2 12h3v8h6v-6h2v6h6v-8h3L12 3zm0 2.7L17 10v9h-2v-6H9v6H7v-9l5-4.3z"/>
+        </symbol>
+        <symbol id="icon-alimentacao" viewBox="0 0 24 24">
+            <path fill="#0066cc" d="M11 9H9V2H7v7H5V2H3v7c0 2.12 1.66 3.84 3.75 3.97V22h2.5v-9.03C11.34 12.84 13 11.12 13 9V2h-2v7zm5-3v8h2.5v8H21V2c-2.76 0-5 2.24-5 4z"/>
+        </symbol>
+        <symbol id="icon-quarto" viewBox="0 0 24 24">
+            <path fill="#0066cc" d="M7 13c1.66 0 3-1.34 3-3S8.66 7 7 7s-3 1.34-3 3 1.34 3 3 3zm12-6h-8v7H3V7H1v10h2v-2h18v2h2V9c0-1.1-.9-2-2-2z"/>
+        </symbol>
+        <symbol id="icon-recepcao" viewBox="0 0 24 24">
+            <path fill="#0066cc" d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 3c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3zm0 14.2c-2.5 0-4.71-1.28-6-3.22.03-1.99 4-3.08 6-3.08 1.99 0 5.97 1.09 6 3.08-1.29 1.94-3.5 3.22-6 3.22z"/>
+        </symbol>
+    </svg>
+    <div class="topo">
+        <div class="container">
+            <a href="index.html" class="link-logotipo">
+                <img src="assets/logo.png" alt="Logo Pousada Golfinho" class="logo-img">
+                <span class="logotipo-texto">Pousada <span>Golfinho</span></span>
+            </a>
+            <nav>
+                <a href="index.html#sobre" class="link-topo">Sobre</a>
+                <a href="#quartos" class="link-topo">Quartos</a>
+                <a href="index.html#rota" class="link-topo">Rota</a>
+            </nav>
+        </div>
+    </div>
+
+    <div class="imagem-banner">
+        <video autoplay muted loop playsinline class="video-background">
+            <source src="video/video-pousada.mp4" type="video/mp4">
+        </video>
+        <div class="titulo-site-descricao">
+            <div class="banner-header">
+                <img src="assets/logo.png" alt="Logo Pousada Golfinho" class="banner-logo">
+                <h1>Pousada Golfinho</h1>
+            </div>
+            <p>A Sua pousada favorita em Angra dos Reis!</p>
+        </div>
+    </div>
+
+    <div class="container-sobre" id="sobre">
+        <h2>SOBRE A POUSADA!</h2>
+        <p class="sobre-descricao">A Pousada Golfinho é seu refúgio perfeito em Angra dos Reis. Oferecemos estacionamento privativo gratuito, piscina ao ar livre com vista para o mar e bar com drinks exclusivos. Nossos quartos são equipados com ar-condicionado, TV a cabo e Wi-Fi gratuito. Desfrute de um café da manhã completo, serviço de quarto 24h e acesso direto à praia. Ideal para famílias e casais, com área de lazer, churrasqueira e equipe atenciosa para tornar sua estadia inesquecível.</p>
+        <div class="sobre-grid">
+            <div class="sobre-item">
+                <div class="sobre-info">
+                    <h3><svg class="sobre-icone"><use xlink:href="#icon-pousada"></use></svg>A pousada</h3>
+                    <p>A Pousada Golfinho oferece tranquilidade e conforto em meio à natureza. Desfrute de nossa piscina ao ar livre e relaxe em nosso bar com drinks especiais e um ambiente acolhedor.</p>
+                </div>
+                <img src="assets/img1.jpg" alt="Vista da pousada">
+            </div>
+            <div class="sobre-item">
+                <div class="sobre-info">
+                    <h3><svg class="sobre-icone"><use xlink:href="#icon-alimentacao"></use></svg>Alimentação</h3>
+                    <p>Comece seu dia com nosso café da manhã completo, servido em estilo buffet com variedade de opções frescas. Nosso restaurante funciona 24h para sua comodidade.</p>
+                </div>
+                <img src="assets/img2.jpg" alt="Buffet da pousada">
+            </div>
+            <div class="sobre-item">
+                <div class="sobre-info">
+                    <h3><svg class="sobre-icone"><use xlink:href="#icon-quarto"></use></svg>Nossos quartos</h3>
+                    <p>Quartos equipados com ar-condicionado, TV a cabo e Wi-Fi gratuito. Conforto e praticidade para tornar sua estadia ainda mais agradável.</p>
+                </div>
+                <img src="assets/img3.jpg" alt="Quarto da pousada">
+            </div>
+            <div class="sobre-item">
+                <div class="sobre-info">
+                    <h3><svg class="sobre-icone"><use xlink:href="#icon-recepcao"></use></svg>Recepção</h3>
+                    <p>Recepção 24 horas com equipe preparada para garantir sua melhor experiência. Atendimento cordial para check-in, informações e assistência durante toda sua estadia.</p>
+                </div>
+                <img src="assets/img5.jpg" alt="Recepção da pousada">
+            </div>
+        </div>
+    </div>
+
+    <div class="container-quartos" id="quartos">
+        <div class="quarto">
+            <h2>Quarto de Solteiro</h2>
+            <div class="quarto-info">
+                <img src="assets/quarto-solteiro1.jpg" alt="Quarto de solteiro 1">
+                <img src="assets/quarto-solteiro2.jpg" alt="Quarto de solteiro 2">
+                <img src="assets/quarto-solteiro3.jpg" alt="Quarto de solteiro 3">
+            </div>
+            <div class="quarto-descricao">
+                <h3>Informações sobre o quarto:</h3>
+                <div class="info-grid">
+                    <p>TV de tela plana a cabo.</p>
+                    <p>Cozinha compacta.</p>
+                    <p>Área para refeições.</p>
+                    <p>Ar-condicionado.</p>
+                    <p>1 ou 2 camas de solteiro.</p>
+                    <p>Não permite cancelamento.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="quarto">
+            <h2>Quarto de Casal</h2>
+            <div class="quarto-info">
+                <img src="assets/quarto-casal1.jpg" alt="Quarto de casal 1">
+                <img src="assets/quarto-casal2.jpg" alt="Quarto de casal 2">
+                <img src="assets/quarto-casal3.jpg" alt="Quarto de casal 3">
+            </div>
+            <div class="quarto-descricao">
+                <h3>Informações sobre o quarto:</h3>
+                <div class="info-grid">
+                    <p>TV de tela plana a cabo</p>
+                    <p>Cozinha compacta</p>
+                    <p>Área para refeições</p>
+                    <p>Ar-condicionado</p>
+                    <p>1 cama de casal</p>
+                    <p>Cancelamento grátis</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="quarto">
+            <h2>Quarto Família</h2>
+            <div class="quarto-info">
+                <img src="assets/quarto-familia1.jpg" alt="Quarto família 1">
+                <img src="assets/quarto-familia2.jpg" alt="Quarto família 2">
+                <img src="assets/quarto-familia3.jpg" alt="Quarto família 3">
+            </div>
+            <div class="quarto-descricao">
+                <h3>Informações sobre o quarto:</h3>
+                <div class="info-grid">
+                    <p>TV de tela plana a cabo</p>
+                    <p>Cozinha compacta</p>
+                    <p>Área para refeições</p>
+                    <p>Ar-condicionado</p>
+                    <p>1 cama de casal e 1 de solteiro</p>
+                    <p>Cancelamento grátis</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-rota" id="rota">
+        <h2>ROTAS</h2>
+        <p class="rota-descricao">Venha nos visitar! Estamos localizados em uma das áreas mais privilegiadas de Angra dos Reis.</p>
+        <div class="mapa">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d117971.16090837814!2d-44.39823385869139!3d-23.006799199999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9c4d0054f0000001%3A0x391de78f7080840c!2sAngra%20dos%20Reis%2C%20RJ!5e0!3m2!1spt-BR!2sbr!4v1699486144317!5m2!1spt-BR!2sbr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+    </div>
+
+    <footer class="rodape">
+        <div class="container">
+            <div class="rodape-info">
+                <h4>Informações de Contato</h4>
+                <p><img src="assets/icones/endereco.png" alt="Ícone endereço">Endereço Av. 123, 222 - Angra dos Reis - Rio de Janeiro</p>
+                <p><img src="assets/icones/telefone.png" alt="Ícone telefone">Cel: 5521000000000</p>
+                <p><img src="assets/icones/calendario.png" alt="Ícone calendário">Faça sua reserva pelo Booking.com</p>
+            </div>
+        </div>
+    </footer>
+
+    <div class="copyright">
+        <p>© Copyright - Pousada Golfinho - Desenvolvido por Marcello Gabriell - Desenvolvedor Front-End</p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
