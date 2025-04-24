@@ -110,14 +110,7 @@ pousada-golfinho/
 
 ## 🦸 Autor
 
-<a href="https://github.com/marcellgabriel">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/YOUR_ID?v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Marcello Gabriell</b></sub>
-</a>
-
 [![Linkedin Badge](https://img.shields.io/badge/-Marcello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcello-gabriel-developer/)](https://www.linkedin.com/in/marcello-gabriell/) 
-
 
 ---
 
