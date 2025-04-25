@@ -31,20 +31,6 @@ Pousada Golfinho é um website moderno e responsivo para uma pousada localizada 
 - [x] Ícones vetoriais otimizados
 - [x] Interface adaptativa
 
-## 🎨 Layout
-
-### 🖥️ Desktop
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center; flex-wrap: wrap; gap: 20px;">
-
-![web1](https://github.com/user-attachments/assets/2e49e619-cc71-49a2-bfeb-5c9c787a259b)
-
-
-### 📱 Mobile
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center; gap: 20px;">
-
-https://freeimage.host/i/3MTL07e
 
 ## 🛠 Tecnologias
 
